@@ -1,3 +1,5 @@
+https://sprout-nebula-fce.notion.site/4-5-b3223c62402d45158340cacc74cf407e?pvs=4
+
 from tensorflow.python.keras.engine.base_layer import Layer
 from tensorflow.python.ops import math_ops
 from tensorflow.python.ops import nn_ops
